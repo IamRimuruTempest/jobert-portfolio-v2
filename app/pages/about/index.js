@@ -33,7 +33,7 @@ export default function About() {
             alt=""
             fill
             class="rounded-lg object-cover"
-            src="/images/about/about 6.jpg"
+            src="/images/about/about 4.jpg"
           />
         </div>
         <div className="relative h-40 sm:mb-4 sm:h-80">
@@ -41,7 +41,7 @@ export default function About() {
             alt=""
             fill
             class="rounded-lg object-cover"
-            src="/images/about/about 7.jpg"
+            src="/images/about/about 5.jpg"
           />
         </div>
         <div className="relative mb-4 h-40 sm:mb-0">
@@ -65,7 +65,7 @@ export default function About() {
             alt=""
             fill
             class="rounded-lg object-cover"
-            src="/images/about/about 4.jpg"
+            src="/images/about/about 6.jpg"
           />
         </div>
       </div>
