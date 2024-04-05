@@ -3,8 +3,8 @@ import Image from "next/image";
 import Social from "@/app/components/Social";
 export default function About() {
   return (
-    <section className="pb-12">
-      <h1 className="mb-3 text-2xl font-medium tracking-tighter">
+    <section className="" id="about">
+      <h1 className="mb-3  text-2xl font-medium tracking-tighter">
         hey, I'm jobert adviento 👋
       </h1>
 

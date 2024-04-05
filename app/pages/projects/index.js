@@ -44,13 +44,13 @@ export default function Projects() {
     },
   ];
   return (
-    <section id="projects" className="py-12">
-      <h2 class="font-semibold text-base mb-4 uppercase">Projects</h2>
+    <section id="projects" className="py-8">
+      <h2 class="font-semibold text-base mb-4 uppercase mt-14">Projects</h2>
       <div class="grid grid-cols-1 gap-6 space-y-6">
         {projects.map((project) => (
           <a href={project.link} className="group group/link">
-            <div class=" flex flex-col md:flex-row lg:flex-row h-full bg-transparent shadow-sm gap-4">
-              <div class="h-40 flex-shrink-0 relative w-full overflow-hidden  sm:max-w-60  md:max-w-xs border rounded-lg">
+            <div class="flex flex-col md:flex-row lg:flex-row h-full bg-transparent shadow-sm gap-4">
+              <div class="sm:h-40 md:h-60  flex-shrink-0 relative  overflow-hidden w- sm:max-w-60  md:max-w-full lg:w-1/2  border rounded-lg">
                 <Image
                   alt=""
                   width={600}
