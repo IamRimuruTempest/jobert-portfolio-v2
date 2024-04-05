@@ -5,7 +5,7 @@ export default function Experience() {
       position: "Project Technical Aide V - Web Developer",
       company: "SINAG Cagayan Valley - Cagayan State Universtiy",
       description:
-        "Assist in the development of the SINAG Cagayan Valley website and portal and fulfill other responsibilities as a Project Staff.",
+        "Assist in the development of the SINAG Cagayan Valley website and portal and perform other responsibilities as a Project Staff.",
       link: "https://www.facebook.com/SINAGRegion02",
     },
     {
@@ -13,7 +13,7 @@ export default function Experience() {
       position: "Science Research Assistant - Web Developer",
       company: "Technology Transfer and Business Development Office",
       description:
-        "Assisted in the development of the Cagayan State University - Technology Transfer and Business Development Division website and fulfilled other responsibilities as a Research Assistant.",
+        "Assisted in the development of the Cagayan State University - Technology Transfer and Business Development Division website and perform other responsibilities as a Research Assistant.",
       link: "https://www.facebook.com/csu.biznest",
     },
     {
@@ -70,9 +70,9 @@ export default function Experience() {
 
       <div className="mt-12">
         <a
-          className="inline-flex items-center font-medium leading-tight text-slate-200  group"
+          className="inline-flex items-center font-medium leading-tight text-[#F0DB4F]  group"
           aria-label="View Full Résumé"
-          href="/resume.pdf"
+          href="/Jobert Adviento CV.pdf"
         >
           <span>
             <span className="border-b border-transparent pb-px transition group-hover:border-[#F0DB4F] motion-reduce:transition-none">
