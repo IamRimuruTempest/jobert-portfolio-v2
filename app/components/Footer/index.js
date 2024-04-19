@@ -68,7 +68,7 @@ export default function Footer() {
 
           <a
             class="size-8 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-full border border-transparent text-white/70 hover:bg-[#F0DB4F] hover:text-black disabled:opacity-50 disabled:pointer-events-none "
-            href="https://www.linkedin.com/in/jobert-adviento-a5b812224/"
+            href="https://www.linkedin.com/in/jobertadviento/"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

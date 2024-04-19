@@ -45,7 +45,7 @@ export default function Projects() {
   ];
   return (
     <section id="projects" className="py-8">
-      <h2 class="font-semibold text-base mb-4 uppercase mt-14">Projects</h2>
+      <h2 class="font-semibold text-base mb-4 uppercase mt-24">Projects</h2>
       <div class="grid grid-cols-1 gap-6 space-y-6">
         {projects.map((project) => (
           <a href={project.link} className="group group/link">

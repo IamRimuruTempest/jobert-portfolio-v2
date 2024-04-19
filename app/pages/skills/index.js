@@ -21,7 +21,7 @@ export default function Skills() {
   const icons = [FaHtml5, FaJs, FaLaravel, FaPhp];
   return (
     <section id="skills" className="pt-8">
-      <h2 class="font-semibold text-base mb-4 uppercase mt-14">
+      <h2 class="font-semibold text-base mb-4 uppercase mt-24">
         Technical Skills
       </h2>
 

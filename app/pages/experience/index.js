@@ -27,7 +27,7 @@ export default function Experience() {
   ];
   return (
     <section id="experience" className="pt-8">
-      <h2 class="font-semibold text-base mb-4 uppercase mt-14">
+      <h2 class="font-semibold text-base mb-4 uppercase mt-24">
         Work Experience
       </h2>
       <div className="space-y-12">

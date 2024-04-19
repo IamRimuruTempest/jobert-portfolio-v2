@@ -67,7 +67,7 @@ export default function Social() {
         <a
           className="block  hover:text-[#F0DB4F]"
           aria-hidden="true"
-          href="https://www.linkedin.com/in/jobert-adviento-a5b812224/"
+          href="https://www.linkedin.com/in/jobertadviento/"
           target="_blank"
           rel="noreferrer"
         >
