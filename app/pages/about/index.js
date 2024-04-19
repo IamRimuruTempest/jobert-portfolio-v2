@@ -22,7 +22,7 @@ export default function About() {
       </p>
 
       <div className="my-8 columns-2 gap-4 sm:columns-3 z-0">
-        <div className="relative mb-4 h-80 sm:mb-0">
+        <div className="relative mb-4 h-40">
           <Image
             alt=""
             fill
