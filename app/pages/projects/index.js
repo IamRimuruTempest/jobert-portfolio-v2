@@ -4,7 +4,7 @@ export default function Projects() {
   const projects = [
     {
       title: "SINAG Cagayan Valley",
-      link: "https://agrixcelerate.vercel.app/",
+      link: "https://sinagcagayanvalley.online/",
       description:
         "A website and portal for the SINAG Cagayan Valley Consortium Members serves as a centralized platform, facilitating communication and collaboration among its members.",
       image: "/images/projects/sinag.png",
