@@ -3,12 +3,28 @@ import Image from "next/image";
 export default function Projects() {
   const projects = [
     {
+      title: "AQRO",
+      link: "https://aqro.tech/",
+      description:
+        "A project website for Reusable Food and Beverage Containers For Circular Economy.",
+      image: "/images/projects/aqro tech.jpg",
+      tools: ["PHP", "Laravel", "Tailwind CSS"],
+    },
+    {
       title: "SINAG Cagayan Valley",
       link: "https://sinagcagayanvalley.online/",
       description:
-        "A website and portal for the SINAG Cagayan Valley Consortium Members serves as a centralized platform, facilitating communication and collaboration among its members.",
+        "A website and portal for the SINAG Cagayan Valley Consortium Members. It serves as a centralized platform, facilitating communication and collaboration among its members.",
       image: "/images/projects/sinag.png",
-      tools: ["Laravel", "Tailwind CSS"],
+      tools: ["PHP", "Laravel", "Tailwind CSS"],
+    },
+    {
+      title: "TTBDD",
+      link: "https://csu-ttbdd.com/",
+      description:
+        "A website showcases and highlights the achievements of TTBDO and its incubatees, along with their innovative technologies and products.",
+      image: "/images/projects/csu-ttbdd.png",
+      tools: ["PHP", "Laravel", "Vue", "Vuetify"],
     },
     {
       title: "AgriXcelerate",
@@ -18,21 +34,14 @@ export default function Projects() {
       image: "/images/projects/agrixcelerate.png",
       tools: ["ReactJS", "Javascript", "Tailwind CSS"],
     },
-    {
-      title: "TTBDD",
-      link: "https://csu-ttbdd.com/",
-      description:
-        "A website showcases and highlights the achievements of TTBDO and its incubatees, along with their innovative technologies and products.",
-      image: "/images/projects/csu-ttbdd.png",
-      tools: ["Laravel", "Vue", "Vuetify"],
-    },
+
     {
       title: "CSU Library Web Page",
       link: "https://github.com/IamRimuruTempest/csulibrary-web",
       description:
         "A thesis project enables students to conveniently reserve books online while also offering additional features such as the ability to provide ratings and comments.",
       image: "/images/projects/csu-library-web.png",
-      tools: ["Laravel", "Vue", "Vuetify"],
+      tools: ["PHP", "Laravel", "Vue", "Vuetify"],
     },
     {
       title: "CSU Library Dashboard",
@@ -40,7 +49,7 @@ export default function Projects() {
       description:
         "A thesis project focuses on the efficient monitoring of borrowed books from the library, incorporating various features such as real-time status updates of the books and a penalty system for students and many other features.",
       image: "/images/projects/csu-library-dashboard.png",
-      tools: ["Laravel", "Vue", "Vuetify"],
+      tools: ["PHP", "Laravel", "Vue", "Vuetify"],
     },
   ];
   return (
