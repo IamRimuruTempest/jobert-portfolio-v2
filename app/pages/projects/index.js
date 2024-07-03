@@ -12,7 +12,7 @@ export default function Projects() {
     },
     {
       title: "SINAG Cagayan Valley",
-      link: "https://sinagcagayanvalley.online/",
+      link: "https://sinagcagayanvalley.com/",
       description:
         "A website and portal for the SINAG Cagayan Valley Consortium Members. It serves as a centralized platform, facilitating communication and collaboration among its members.",
       image: "/images/projects/sinag.png",
